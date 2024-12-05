@@ -1,0 +1,46 @@
+#d1 img {
+    height: 200px;
+    width: 300px;
+    padding: 5px 5px 5px 5px;
+}
+
+#d1 {
+    border: 3px solid black;
+    height: 270px;
+    width: 310px;
+    background-color: rgb(80, 121, 182);
+    display: inline-block;
+    margin: 5px;
+}
+
+#d1 p {
+    font-size: 20px;
+    margin-top: -10px;
+    padding: 3px;
+}
+
+
+
+
+
+
+#d2 {
+    border: 3px solid rgb(255, 0, 0);
+    height: 270px;
+    width: 310px;
+    background-color: rgb(255, 145, 145);
+    display: inline-block;
+    margin: 5px;
+}
+
+#d2 p {
+    font-size: 20px;
+    margin-top: -10px;
+    padding: 3px;
+}
+
+#d2 img {
+    height: 200px;
+    width: 300px;
+    padding: 5px 5px 5px 5px;
+}
